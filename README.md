@@ -1,3 +1,4 @@
+In Clemson's CPSC 3210 Design Analysis of Algorithsm taught by Federico Iuricich. Completed in March 2020 by Joshua Lin.
 # Dynamic Programming
 In this assignment, you will implement the dynamic programming solution to the matrix chain multiplication problem.
 
